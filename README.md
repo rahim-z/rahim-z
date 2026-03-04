@@ -1,6 +1,5 @@
 ### Languages
 
-![assembly](https://img.shields.io/badge/-assembly-000?&logo=assembly)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -9,6 +8,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![assembly](https://img.shields.io/badge/-assembly-000?&logo=assembly)
 
 ### Technologies
 
