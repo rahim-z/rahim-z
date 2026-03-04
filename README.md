@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]()<!-- If you want the template for my gif, email me! -->
+[![](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZjM2OG8yN2NlMTRqczB2ZWl1ZGNycjB2NWhmbzJ1Mmg4ODB5MDdzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)]()<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
