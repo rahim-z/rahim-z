@@ -25,14 +25,6 @@
 
 ### Full Stack Projects
 
-[![]()
-[![]()
-[![]()
-[![]()
-[![]()
-[![]()
-[![]()
-
 ### Cybersecurity Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
