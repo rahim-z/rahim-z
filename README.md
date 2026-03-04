@@ -23,7 +23,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
- ![rahim-z](https://i.pinimg.com/originals/7f/96/24/7f9624334d322f6c0f2268ac2db7a0db.gif)
+ ![rahim-z](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)
 
 ### Full Stack Projects
 
