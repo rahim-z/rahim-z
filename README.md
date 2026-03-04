@@ -23,7 +23,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-## 🐍 My Contributions
+### My Contributions
 
 <div align="center">
   <picture>
