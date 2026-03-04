@@ -1,5 +1,4 @@
-[![](https://ems.andrew.cmu.edu/2018_60212f/deliverables/2-due-9-14/gif-loop-gallery/)]()<!-- If you want the template for my gif, email me! -->
-
+[![](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZjM2OG8yN2NlMTRqczB2ZWl1ZGNycjB2NWhmbzJ1Mmg4ODB5MDdzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -26,13 +25,13 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![]()
+[![]()
+[![]()
+[![]()
+[![]()
+[![]()
+[![]()
 
 ### Cybersecurity Projects
 
