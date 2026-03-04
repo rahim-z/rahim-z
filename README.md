@@ -23,7 +23,18 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
- ![rahim-z](https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif)
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChijiokeOkorji/ChijiokeOkorji/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChijiokeOkorji/ChijiokeOkorji/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ChijiokeOkorji/ChijiokeOkorji/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 
 ### Full Stack Projects
 
